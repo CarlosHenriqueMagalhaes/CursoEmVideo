@@ -1,0 +1,4 @@
+//CamelCase
+//A primeira letra em maiusculo ou é uma classe ou interface
+//A primeira letra em minusculo indica que pode ser um atributo,uma variavel ou um metodo.
+//Exemplo: MinhaClasse, meuAtributo, meuMetodo, minhaVariavel
